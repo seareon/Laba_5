@@ -1,0 +1,41 @@
+body {
+    font-size: 17px;
+    background-color: white;
+}
+
+.form-elem {
+    padding: 50px;
+    display: inline-block;
+}
+
+.end {
+    padding-right: 30px;
+}
+
+tr {
+    padding-bottom: 30px;
+}
+
+table {
+    margin: 40px auto;
+    border-collapse: collapse;
+}
+
+.execute {
+    width: 62px;
+    margin: 50px auto;
+    border: 4px double black;
+}
+
+.resul-select, .resul-select td, .resul-select th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+}
+
+.answer-massage {
+    width: 160px;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 18px;
+}
